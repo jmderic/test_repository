@@ -1,4 +1,4 @@
-# More grand comment
+# More grand comment and expand upon it
 echo "# test_repository" >> README.md
 git init
 git add README.md
