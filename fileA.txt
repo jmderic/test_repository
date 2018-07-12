@@ -1,1 +1,2 @@
+Setup a potential merge conflict
 conflict here ;-)

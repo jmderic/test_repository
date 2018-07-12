@@ -1,1 +1,2 @@
 For the second commit on the branch
+with a non-conflicting change
